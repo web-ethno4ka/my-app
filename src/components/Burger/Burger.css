@@ -1,7 +1,9 @@
 .Burger {
-  width: 60vw;
+  width: 30rem;
+  max-width: 60vw;
   margin: auto;
-  height: 100vh;
+  height: 30rem;
+  max-height: 60vh;
   text-align: center;
   font-weight: bold;
   font-size: 1.2rem;

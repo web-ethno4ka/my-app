@@ -1,3 +1,6 @@
 .Content {
-  margin: 30px;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-around;
+  height: 95vh;
 }
