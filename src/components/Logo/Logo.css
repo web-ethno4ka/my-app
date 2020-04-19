@@ -1,0 +1,11 @@
+.Logo {
+  /* background-color: white; */
+  display: inline-flex;
+  align-items: center;
+  height: 50%;
+}
+
+.Logo img {
+  height: 100%;
+  margin-right: 1rem;
+}

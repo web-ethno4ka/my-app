@@ -1,10 +1,11 @@
 import React from 'react';
 import './Toolbar.css';
+import Logo from '../../../components/Logo/Logo';
 
 const toolbar = (props) => (
   <header className={'Toolbar'}>
     <div>Menu</div>
-    <div>Logo</div>
+    <Logo />
     <nav>
         ...
     </nav>
