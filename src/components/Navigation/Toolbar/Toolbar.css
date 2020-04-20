@@ -17,3 +17,10 @@
 .Toolbar nav {
   height: 100%;
 }
+
+/* helper-class */
+@media (max-width: 499px) {
+  .DesktopOnly {
+    display: none;
+  }
+}

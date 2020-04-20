@@ -25,3 +25,7 @@
 .Close {
   transform: translateX(-100%);
 }
+
+.Navigation {
+  margin-top: 2rem;
+}
